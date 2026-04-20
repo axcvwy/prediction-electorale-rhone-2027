@@ -1,0 +1,11 @@
+id_election;id_brut_miom;code_departement;code_commune;code_bv;no_panneau;voix;ratio_voix_inscrits;ratio_voix_exprimes;nuance;sexe;nom;prenom;liste;libelle_abrege_liste;libelle_etendu_liste;nom_tete_liste;binome
+2026_muni_t2;01160_0001;01;01160;0001;1;257;27.72;67.63;LDVC;M;PHILIPPS;Pierre-Marie;;Une Energie Nouvelle Pour Ferney;Une Energie Nouvelle Pour Ferney;;
+2026_muni_t2;01160_0002;01;01160;0002;1;311;25.79;65.47;LDVC;M;PHILIPPS;Pierre-Marie;;Une Energie Nouvelle Pour Ferney;Une Energie Nouvelle Pour Ferney;;
+2026_muni_t2;01160_0003;01;01160;0003;1;252;21.28;59.86;LDVC;M;PHILIPPS;Pierre-Marie;;Une Energie Nouvelle Pour Ferney;Une Energie Nouvelle Pour Ferney;;
+2026_muni_t2;01160_0004;01;01160;0004;1;424;36.27;68.28;LDVC;M;PHILIPPS;Pierre-Marie;;Une Energie Nouvelle Pour Ferney;Une Energie Nouvelle Pour Ferney;;
+2026_muni_t2;01194_0001;01;01194;0001;1;204;19.12;31.24;LDVD;M;COLOMBIER;Jean-François;;UN NOUVEL ELAN POUR JASSANS-RIOTTIER;UN NOUVEL ELAN POUR JASSANS-RIOTTIER;;
+2026_muni_t2;01194_0002;01;01194;0002;1;248;22.22;44.05;LDVD;M;COLOMBIER;Jean-François;;UN NOUVEL ELAN POUR JASSANS-RIOTTIER;UN NOUVEL ELAN POUR JASSANS-RIOTTIER;;
+2026_muni_t2;01194_0003;01;01194;0003;1;198;17.77;35.42;LDVD;M;COLOMBIER;Jean-François;;UN NOUVEL ELAN POUR JASSANS-RIOTTIER;UN NOUVEL ELAN POUR JASSANS-RIOTTIER;;
+2026_muni_t2;01194_0004;01;01194;0004;1;175;16.06;27.73;LDVD;M;COLOMBIER;Jean-François;;UN NOUVEL ELAN POUR JASSANS-RIOTTIER;UN NOUVEL ELAN POUR JASSANS-RIOTTIER;;
+
+2.2GB File;DOWNLOAD FROM;https://www.data.gouv.fr/datasets/donnees-des-elections-agregees;https://object.files.data.gouv.fr/data-pipeline-open/elections/candidats_results.csv;
