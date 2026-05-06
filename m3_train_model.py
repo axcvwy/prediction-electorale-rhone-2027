@@ -21,6 +21,7 @@ INPUT_FILE = Path("Data_Model/dataset_features.csv")
 
 OUTPUT_METRICS = Path("Data_Model/model_metrics_results.csv")
 OUTPUT_TEST_PRED = Path("Data_Model/test_predictions_2022.csv")
+OUTPUT_ALL_PRED_2022 = Path("Data_Model/predictions_all_2022.csv")
 OUTPUT_FORECAST_2027 = Path("Data_Model/predictions_2027_results.csv")
 OUTPUT_IMPORTANCE = Path("Data_Model/model_coefficients.csv")
 
